@@ -33,7 +33,6 @@
             </div>
         </section>
     </main>
-
     <?php require_once('template/footer.php') ?>
 
 </body>
