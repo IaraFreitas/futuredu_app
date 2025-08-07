@@ -14,7 +14,6 @@
             <p>O que você deseja fazer hoje?</p>
         </section>
 
-
         <section class="cards">
             <h3>Acesso Rápido</h3>
             <ul class="menu-lista">
